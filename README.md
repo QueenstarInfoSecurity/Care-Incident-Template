@@ -21,3 +21,8 @@ This repository contains a comprehensive **Incident Report Template** designed f
    -  Location: Client's Living Room
    -  Incident Type: Fall
    -  Summary: Client tripped over a rug while walking to the kitchen. Staff responded  immediaately, assisted client into a chair, and administered first aid. No injuries observed. Daughter and manager informed.
+
+## License
+ This project is licensed under the MIT License.
+## ** Disclaimer:**
+This project is provided **as is**, without any warranties or guarantees. The author assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.
